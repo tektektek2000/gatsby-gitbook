@@ -1,0 +1,9 @@
+[submodule "qpa-markdown-content"]
+	path = qpa-markdown-content
+	url = https://github.com/tektektek2000/qpa-markdown-content
+[submodule "content/all"]
+	path = content/all
+	url = https://github.com/tektektek2000/qpa-markdown-content
+[submodule "content/public"]
+	path = content/public
+	url = https://github.com/tektektek2000/qpa-markdown-content
